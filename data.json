@@ -1,0 +1,19 @@
+{
+    "energy_use": {
+        "total_kWh": 1200,
+        "renewable_energy": 800,
+        "non_renewable_energy": 400
+    },
+    "water_conservation": {
+        "total_liters": 5000,
+        "conserved_liters": 3000
+    },
+    "recycling_rate": {
+        "total_waste": 2000,
+        "recycled_waste": 1500
+    },
+    "carbon_emissions": {
+        "total_emissions_ton": 10,
+        "reduced_emissions_ton": 5
+    }
+}
